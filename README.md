@@ -8,4 +8,4 @@
 
 
 This repository stores a skeleton of a GeoSMART use case book.<br>
-Click on "use this template" to get started.
+We have edited it to demonstrate how to use cameras to customize MODIS NDSI snow cover maps for binary snow presence/absence maps. Enjoy!
