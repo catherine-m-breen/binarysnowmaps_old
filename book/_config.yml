@@ -1,8 +1,8 @@
 # Book settings
 # Learn more at https://jupyterbook.org/customize/config.html
 
-title: "Use Case Template"
-author: eScience Institute, University of Washington
+title: "Custom binary snow maps with camera traps"
+author: Catherine Breen, University of Washington
 logo: img/GeoSMART_logo.svg
 only_build_toc_files: true
 
@@ -51,7 +51,7 @@ launch_buttons:
 
 # Information about where the book exists on the web
 repository:
-  url: https://github.com/geo-smart/use_case_template # Online location of your book
+  url: https://github.com/catherine-m-breen/binarysnowmaps # Online location of your book
   path_to_book: book  # Optional path to your book, relative to the repository root
   branch: main  # Which branch of the repository should be used when creating links (optional)
 
