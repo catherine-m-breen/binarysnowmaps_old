@@ -12,3 +12,5 @@ dependencies:
   - jupytext
   - plotly
   - pandas
+  - numpy
+  - sklearn
